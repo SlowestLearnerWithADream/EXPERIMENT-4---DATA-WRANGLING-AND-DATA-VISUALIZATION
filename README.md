@@ -13,8 +13,13 @@ ECE BOARD EXAM PROBLEM: Using data wrangling and data visualization technique wi
 Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
 Output:
 <img width="560" alt="Screenshot 2024-09-17 at 9 18 34 AM" src="https://github.com/user-attachments/assets/b1f6b048-6a2e-4cbf-9901-0aaa774ac1d8">
+
+
 - Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
-b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
+- Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
+
+
+
 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 
 
