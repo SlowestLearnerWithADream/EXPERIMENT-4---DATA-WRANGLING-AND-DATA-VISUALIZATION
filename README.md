@@ -23,7 +23,7 @@ Output:
 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 
 
-Name: Bayodoc, Lleyton Jeremy I.
-Section: 2ECE-A 
-Date Submitted: Sept 17, 2024
+- Name: Bayodoc, Lleyton Jeremy I.
+- Section: 2ECE-A 
+- Date Submitted: Sept 17, 2024
 
